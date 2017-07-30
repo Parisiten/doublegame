@@ -1,6 +1,3 @@
 # My configurations:
-./backend/static
-./backend/templates
 ./frontend/node_modules
-doublegame_settings.txt
 dist
